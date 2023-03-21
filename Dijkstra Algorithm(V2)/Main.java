@@ -1,3 +1,5 @@
+//Time compexity O(V2) and Space compexity O(V)
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
